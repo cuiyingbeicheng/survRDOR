@@ -1,5 +1,10 @@
-survRDOR: An package to make inferences for the distribution of the duration of response
+survRDOR: R package to make inferences for the distribution of the duration of response
+=======
 
-Code to install the package in R:
+# Installation
 
+Users may install the survRDPR package in R with the following code:
+
+```
 remotes::install_github("cuiyingbeicheng/survRDOR")
+```
