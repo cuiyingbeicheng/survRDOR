@@ -1,0 +1,6 @@
+export(get.SRDOR_twostep)
+export(get.SRDOR_IPW.naive)
+export(get.SRDOR_IPW.improved)
+importFrom("stats", "dnorm")
+importFrom("stats", "ecdf")
+

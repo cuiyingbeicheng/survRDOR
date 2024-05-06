@@ -1,0 +1,30 @@
+Package: survRDOR
+Type: Package
+Title: Inferences for the Distribution of the Duration of Response
+Version: 1.0
+Authors@R: c(person(given = "Ying",
+             family = "Cui",
+             role = c("aut", "cre"),
+             email = "cuiyingbeicheng@gmail.com"),
+             person(given = "Bo",
+             family = "Huang",
+             role = "aut"),
+             person(given = "Lu",
+             family = "Mao",
+             role = "aut"),
+             person(given = "Hajime",
+             family = "Uno",
+             role = "aut"),
+             person(given = "Lee-Jen",
+             family = "Wei",
+             role = "aut"),
+             person(given = "Lu",
+             family = "Tian",
+             role = "aut"))
+Maintainer: Ying Cui <cuiyingbeicheng@gmail.com>
+Description: This package implements several approaches to estimate the distribution of restricted duration of response. 
+Depends: R (>= 3.5.0)
+Imports: stats,survival
+License: GPL( >= 2)
+Encoding: UTF-8
+LazyData: true
