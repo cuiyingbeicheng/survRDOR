@@ -28,3 +28,5 @@ Imports: stats,survival
 License: GPL( >= 2)
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/cuiyingbeicheng/survRDOR
+BugReports: https://github.com/cuiyingbeicheng/survRDOR/issues
