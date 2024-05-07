@@ -3,7 +3,7 @@ survRDOR: R package to make inferences for the distribution of the duration of r
 
 # Installation
 
-Users may install the survRDPR package in R with the following code:
+Users may install the survRDOR package in R with the following code:
 
 ```
 remotes::install_github("cuiyingbeicheng/survRDOR")
